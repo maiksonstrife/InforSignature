@@ -36,7 +36,6 @@ namespace InforSignature
             openFile.Title = "Select a file";
             if (openFile.ShowDialog() != DialogResult.OK)
                 return;
-
             AssinaturaPfxTextBox.Text = openFile.FileName;
         }
 
