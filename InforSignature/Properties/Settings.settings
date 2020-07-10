@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="iTextSharpSign.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Filial1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\maiks\Desktop\Assinar\Filial1;C:\Users\maiks\Desktop\Assinar\Filial1\Config\Infordoc 2020.pfx;Infordoc01;C:\Users\maiks\Desktop\Assinar\Filial1\Config\Watermark.jpg;superior-direita</Value>
+    </Setting>
+    <Setting Name="Filial2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\maiks\Desktop\Assinar\Filial2;C:\Users\maiks\Desktop\Assinar\Filial2\Config\Infordoc 2020.pfx;Infordoc01;C:\Users\maiks\Desktop\Assinar\Filial1\Config\Watermark.jpg;superior-direita</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
